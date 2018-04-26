@@ -5,3 +5,4 @@
 2.安装http-server
 3.根目录执行http-server启动服务 即可看到效果
 
+https://github.com/yangyiming/webgame/blob/master/psd/%E6%89%93%E8%B1%86%E8%B1%8604.gif
