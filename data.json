@@ -1,0 +1,81 @@
+{
+    "data": {
+        "lsptJcContent": null,
+        "lsptJcLabelList": [],
+        "lsptQuestionList": [
+            {
+                "lsptJcLl": {
+                    "llId": 2126,
+                    "title": "小标题",
+                    "topicContent": "将每一相关的业务登记在一行，从而可依据每一行各个栏目的登记是否齐全来判断该项业务的进展情况的明细分类账格式属于（&nbsp;）。",
+                    "answer": "4",
+                    "mhAnswer": "",
+                    "analyse": "横线登记式账页也称为平行式账页，其特点是采用横线登记，即将每一相关的业务登记在一行，从而可依据每一行各个栏目的登记是否齐全来判断该项业务的进展情况。",
+                    "questionType": "single",
+                    "difficult": 1,
+                    "score": 1,
+                    "templetId": 0,
+                    "del": 0,
+                    "modifyTime": 1513824455000,
+                    "modifyUserId": 1,
+                    "createTime": 1513824455000,
+                    "createUserId": 1,
+                    "enterpriseId": null
+                },
+                "lsptJcLlImageList": [],
+                "lsptJcLlItemList": [
+                    {
+                        "itemId": 5015,
+                        "questionId": 2126,
+                        "itemContent": "两栏式",
+                        "seq": 0,
+                        "del": 0,
+                        "modifyTime": 1513824455000,
+                        "modifyUserId": 1,
+                        "createTime": 1513824455000,
+                        "createUserId": 1
+                    },
+                    {
+                        "itemId": 5016,
+                        "questionId": 2126,
+                        "itemContent": "三栏式",
+                        "seq": 1,
+                        "del": 0,
+                        "modifyTime": 1513824455000,
+                        "modifyUserId": 1,
+                        "createTime": 1513824455000,
+                        "createUserId": 1
+                    },
+                    {
+                        "itemId": 5017,
+                        "questionId": 2126,
+                        "itemContent": "多栏式",
+                        "seq": 2,
+                        "del": 0,
+                        "modifyTime": 1513824455000,
+                        "modifyUserId": 1,
+                        "createTime": 1513824455000,
+                        "createUserId": 1
+                    },
+                    {
+                        "itemId": 5018,
+                        "questionId": 2126,
+                        "itemContent": "横线登记式",
+                        "seq": 3,
+                        "del": 0,
+                        "modifyTime": 1513824455000,
+                        "modifyUserId": 1,
+                        "createTime": 1513824455000,
+                        "createUserId": 1
+                    }
+                ],
+                "lsptJcLlItemLabelList": []
+            }
+        ],
+        "lsptJcLlImageList": [],
+        "small": false
+    },
+    "code": 200,
+    "msg": "操作成功",
+    "ok": true
+}

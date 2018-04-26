@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="js/saveImage.js"></script>
+	<script>
+		function save(){
+			saveImage('http://192.168.66.9:8081/image/bg.jpg','jpg');
+		}
+		
+	</script>
+</head>
+<body>
+	<img src="image/bg.jpg" alt="">
+	<input type="button" value="保存图片" onclick="save()">
+</body>
+</html>
